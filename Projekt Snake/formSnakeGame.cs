@@ -212,6 +212,37 @@ namespace Projekt_Snake
             KeyInput.StateOfKey(e.KeyCode, true);
         }
 
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+
+            //capture up arrow key
+            if (keyData == Keys.Up)
+            {
+                Settings.snakeDirection = Direction.up;
+                return true;
+            }
+            //capture down arrow key
+            if (keyData == Keys.Down)
+            {
+                Settings.snakeDirection = Direction.down;
+                return true;
+            }
+            //capture left arrow key
+            if (keyData == Keys.Left)
+            {
+                Settings.snakeDirection = Direction.left;
+                return true;
+            }
+            //capture right arrow key
+            if (keyData == Keys.Right)
+            {
+                Settings.snakeDirection = Direction.right;
+                return true;
+            }
+            Movement();
+            return base.ProcessCmdKey(ref msg, keyData);
+        }
+
        
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\Piotrek\Documents\projektsnake-master2\projektsnake-master\Projekt Snake\bin\Debug\Projekt Snake.exe.config
+C:\Users\Piotrek\Documents\projektsnake-master2\projektsnake-master\Projekt Snake\bin\Debug\Projekt Snake.exe
+C:\Users\Piotrek\Documents\projektsnake-master2\projektsnake-master\Projekt Snake\bin\Debug\Projekt Snake.pdb
+C:\Users\Piotrek\Documents\projektsnake-master2\projektsnake-master\Projekt Snake\obj\Debug\Projekt_Snake.formSnakeGame.resources
+C:\Users\Piotrek\Documents\projektsnake-master2\projektsnake-master\Projekt Snake\obj\Debug\Projekt_Snake.Properties.Resources.resources
+C:\Users\Piotrek\Documents\projektsnake-master2\projektsnake-master\Projekt Snake\obj\Debug\Projekt Snake.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Documents\projektsnake-master2\projektsnake-master\Projekt Snake\obj\Debug\Projekt Snake.exe
+C:\Users\Piotrek\Documents\projektsnake-master2\projektsnake-master\Projekt Snake\obj\Debug\Projekt Snake.pdb
